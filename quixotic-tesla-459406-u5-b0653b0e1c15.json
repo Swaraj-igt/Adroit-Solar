@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quixotic-tesla-459406-u5",
+  "private_key_id": "b0653b0e1c15254da3800c792e31e779f15da3d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuffkDvnLcbPLN\ndtCdqf3/pyFfk9nDeqeFSlPqV12L2EI0Wx7C9PTk8wzgp1B+NlRsb9mSy0D42buS\nkUr0w5OjK225vazFhdcddfuxMSjxIHk6WSdeen5U22xMJwB0qps92ZagjV2IThKs\nW/oLikoGsjkx9Fxb19gYtW8J2Hni3N6ODzlgrxr84zKiSWYtZEjRq3FYqeKAJGgQ\nvVTcveAKx9tMcDH2guTu8GbDW34ii7KsDMhZqLAy/6rWBZUv7/Zhcp9lfrLUOnhc\nlzJObcksw9Iu+Kqp//RIWliP5Hew/FZ3qCncC0EaWSIzTbIEW4u98//kxSPefSCJ\nssfG6OSjAgMBAAECggEAA+jttgBD+Z11WVZCuW2wM9TOYiJhfEhYzZtLQxJ/FZ2c\naijqiQrNG/44OSZ2nsVf4egls2zbgVf7pH6d89sYCU11UXanEuv7VH0qzR8hYDnO\njZim0a6j+wnJpPEwyOxzuxCPl/xi7qV1NKiA81Y/b2P59R0ZHrO482DJYqqXnJY1\n6yla0br/HjjLv7li+3g4U8LytWiAtI5V49WXINW6bJJ6wINQN5kjg053UoyTHYaK\noR+turEW/HyzIwJXz4vMN5CISDdv/HpRBnwHP9WkqXQBcVzrv4mLgJ+EtQ9/Y5/+\nz/ty7Ccssvx7TOmU4WuZ0A58kO5YBejBnbGen6+AtQKBgQDXrukVMqJsx9by9aO4\nCtZBYQ/bHChul/3pVymjD1S8JTXrBG9jXOaioHm0byM6fBUo2nogVj85vRia6rZ+\n5ECTc9HYhssmnt4qGb7bthR+r9v51dt20aZw69nnO80rdvte48XwVD3KCyFxvi32\n4aNQo2xG2Sn28L8mtAJG36esLwKBgQDPG/EP2xoK/6GnDBFg7tTXanVTwWTBjzx4\nPsRAVAQ/IGwj4i85pw8IybeGImFKK4jnJGl0Fhi30epEAbarRyI48HYBky3j6PPL\nuXcycjCWCsdwNdYlCNlJzc+d8Ux591f3qzKxiYdpQnA1ZpaSQWeQUoY4O0zpEjcK\nwND10uxtzQKBgDDtcdyoLuaEcwOMq8YtVytfrGwlOBrWifgsGLrv2GYR/uhAilA9\nG+jahKFk8NXsnhQ1c6zwQ8mCVxmVky638tpAVONMuLsbIQTl8EEBTibrF/jWBcIv\njxVgu37UNxfcFuwQua9qPNYfrkeSP/UYfKbnW8G6s+Vb+dD61uVjCTNrAoGBAKDW\nczO8FJJ8CT7gKVLcxt/vpeQAaU3D/dLn86J9XLrlY/XN/pzINu29MU/yvRlLi8rt\nRRPI4TNHyqU7q2+CE3qiixIYCWhYDZSlmILNmRu8jTuAI6ipIY2mTli6/ogtZNxK\n0Fh9lHJTDS77V22Ha3TyEZfzvXu3EJXCPcTaI4/1AoGARnp0rjRoqSCJXy+7avrt\n6Fqc8ZNBlRmphkr5JlHnwilQJOxfnQL2aV0lCkudKPrsDmNnQX+qgQnUTWEvsvv9\nu7uOhol/ywQ6igxc1cv/nCB8ZnHPqn6/uMW2KMbtlM1HQ/7hRrA4RcyhoG0fgVGf\nITpdA8dDr1cAyCjOL3/scdY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adroit-solar@quixotic-tesla-459406-u5.iam.gserviceaccount.com",
+  "client_id": "111495826631254247474",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adroit-solar%40quixotic-tesla-459406-u5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
