@@ -41,24 +41,42 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-let position = 0;
+let currentIndex = 0;
 
-function moveSlider(direction) {
-  const slider = document.querySelector('.slider');
-  const cardWidth = document.querySelector('.card').offsetWidth + 20; // card width + margin
-  const totalCards = document.querySelectorAll('.card').length;
-  const visibleCards = 4;
+  function moveSlider(direction) {
+    const slider = document.querySelector('.slider');
+    const totalSlides = document.querySelectorAll('.productImage').length;
 
-  position += direction;
+    currentIndex += direction;
+
+    if (currentIndex < 0) {
+      currentIndex = totalSlides - 1;
+    } else if (currentIndex >= totalSlides) {
+      currentIndex = 0;
+    }
+
+    const offset = -currentIndex * 100;
+    slider.style.transform = `translateX(${offset}%)`;
+  }
+
+// let position = 0;
+
+// function moveSlider(direction) {
+//   const slider = document.querySelector('.slider');
+//   const cardWidth = document.querySelector('.card').offsetWidth + 20; // card width + margin
+//   const totalCards = document.querySelectorAll('.card').length;
+//   const visibleCards = 4;
+
+//   position += direction;
 
   // Clamp the position to stay within the valid range
-  const maxPosition = totalCards - visibleCards;
-  if (position < 0) position = 0;
-  if (position > maxPosition) position = maxPosition;
+  // const maxPosition = totalCards - visibleCards;
+  // if (position < 0) position = 0;
+  // if (position > maxPosition) position = maxPosition;
 
   // Apply the translate to shift the slider
-  slider.style.transform = `translateX(-${position * cardWidth}px)`;
-}
+//   slider.style.transform = `translateX(-${position * cardWidth}px)`;
+// }
 
 
 
